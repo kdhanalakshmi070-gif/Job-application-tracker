@@ -346,7 +346,6 @@ while True:
                 search_results = cursor.fetchall()
 
                 if not search_results:
-
                     print("Application not found!")
 
                 else:
